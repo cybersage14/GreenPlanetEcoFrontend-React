@@ -6,12 +6,6 @@ The website of a New Zealand green technology company, Green Planet Eco.
 
 [![Live site](readme_images/guide-site.png)](https://greenplaneteco.com)
 
-## Contact info
-
-- **Email:** atsuokoizumi@gmail.com
-- **Telegram:** [@silivex](https://t.me/silivex)
-- **Discord** [silivex](https://discordapp.com/users/829485006904754209)
-
 ## Release date
 
 May 12, 2023
